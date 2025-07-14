@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="center"
 nter">
-  <img src="https://github.com/user-attachments/assets/2d5db613-04bd-4af8-aafe-bb6c0bdb0e02" alt="Profile Picture" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/user-attachments/assets/2d5db613-04bd-4af8-aafe-bb6c0bdb0e02" alt="Profile Picture" width="200" style="border-radius: 50%;" />
 </p>
 
 ---
