@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Passionate B.Tech student | AI & Full Stack Developer | Building GenAI Projects</h3>
 
 <p align="center">
-  <img src="https://github.com/siddhisehgal/siddhisehgal/blob/main/myphoto.jpg?raw=true" alt="My Photo" width="300"/>
+  <img src="https://github.com/Siddhi-Sehgal23/Siddhi-Sehgal23/blob/main/WhatsApp%20Image%202025-07-14%20at%202.46.42%20PM.jpeg?raw=true" alt="My Photo" width="300"/>
 </p>
 
 ---
