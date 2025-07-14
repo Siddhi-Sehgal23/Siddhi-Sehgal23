@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Siddhi Sehgal</h1>
 <h3 align="center">🚀 Passionate B.Tech student | AI & Full Stack Developer | Building GenAI Projects</h3>
 
-<p align="center">
-  <img src="https://github.com/Siddhi-Sehgal23/Siddhi-Sehgal23/blob/main/WhatsApp%20Image%202025-07-14%20at%202.46.42%20PM.jpeg?raw=true" alt="My Photo" width="300"/>
+<p align="center"
+nter">
+  <img src="https://github.com/user-attachments/assets/2d5db613-04bd-4af8-aafe-bb6c0bdb0e02" alt="Profile Picture" width="150" style="border-radius: 50%;" />
 </p>
 
 ---
