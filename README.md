@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Passionate B.Tech student | AI & Full Stack Developer | Building GenAI Projects</h3>
 
 <p align="center">
-  <img src="![WhatsApp Image 2025-07-14 at 2 46 42 PM](https://github.com/user-attachments/assets/32a9e8f9-fb33-4897-90a2-a9e5f4fcb57e)"
-?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=435&lines=Building+GenAI+Assistants+🧠;B.Tech+CS+Student+at+NIET+💻;Open+Source+Contributor+🌐;Tech+Society+Lead+⚡;Leetcode+Lover+🔥" alt="Typing SVG" />
+  <img src="https://github.com/user-attachments/assets/32a9e8f9-fb33-4897-90a2-a9e5f4fcb57e" alt="My Photo" width="300"/>
 </p>
+
 
 ---
 
