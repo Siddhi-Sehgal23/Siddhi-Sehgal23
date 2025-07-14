@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Passionate B.Tech student | AI & Full Stack Developer | Building GenAI Projects</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/![Uploading WhatsApp Image 2025-07-14 at 2.46.42 PM.jpeg…]()
-" alt="My Photo" width="300"/>
+  <img src="https://github.com/siddhisehgal/siddhisehgal/blob/main/myphoto.jpg?raw=true" alt="My Photo" width="300"/>
 </p>
-
 
 ---
 
