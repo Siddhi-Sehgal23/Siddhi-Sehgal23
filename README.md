@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on a **GenAI Document Assistant**  
 - 🎯 Goal: Build real-world AI apps that solve actual problems  
-- 🧠 Skills: Python, Streamlit, LangChain, LLMs, FastAPI, HTML, CSS, JS  
-- 📝 Checkout my portfolio & blog: [Link your site here if available]  
+- 🧠 Skills: Python, Streamlit, LangChain, LLMs, FastAPI, HTML, CSS, JS   
 - 💬 Ask me about AI/ML, Web Dev, NLP & Prompt Engineering  
-- 📫 How to reach me: [Your email]  
-- ⚡ Fun Fact: I automate boring stuff and break complex ideas into visuals  
+- 📫 How to reach me: [siddhisehgal005@gmail.com]  
+ 
 
 ---
 
@@ -71,9 +70,8 @@ Here are some ideas to get you started:
 
 ### 📎 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/your-link-here)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/your-handle)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/siddhi-sehgal-009576276/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=red)](mailto:siddhisehgal00@gmail.com)
 
 ---
 
